@@ -7,7 +7,12 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "covid-19-news-sentiment": "github:joemccann/covid-19-news-sentiment"
+    "azure-blob-storage": "github:joemccann/azure-blob-storage",
+    "covid-19-news-sentiment": "github:joemccann/covid-19-news-sentiment",
+    "dotenv": "^8.2.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "standard": "^14.3.3",
+    "tape": "^4.13.2"
+  }
 }

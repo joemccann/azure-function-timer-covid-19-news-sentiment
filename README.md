@@ -22,6 +22,7 @@ AZURE_CLIENT_SECRET=XXX
 AZURE_STORAGE_CONTAINER=XXX
 BLOB_SERVICE_ACCOUNT_NAME=XXX
 INCREMENT=XX
+JOB_DATA_FILENAME=XXX
 ```
 
 Create a `local.settings.json` file as well for running the Azure Function

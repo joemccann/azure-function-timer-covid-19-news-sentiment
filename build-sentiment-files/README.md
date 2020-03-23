@@ -1,6 +1,6 @@
 # Azure Function TimerTrigger
 
-⏲ The `TimerTrigger` fires every 10 minutes for the `build` function.
+⏲ The `TimerTrigger` fires every 10 minutes for the `build-sentiment-files` function.
 
 ## How It Works
 
