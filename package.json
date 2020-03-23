@@ -1,0 +1,13 @@
+{
+  "name": "azure-function-timer-covid-19-news-sentiment",
+  "version": "1.0.0",
+  "description": "⏲ Fetch coronavirus news sentiment on a regular schedule.",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "covid-19-news-sentiment": "github:joemccann/covid-19-news-sentiment"
+  },
+  "devDependencies": {}
+}
