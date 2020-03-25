@@ -1,6 +1,6 @@
 # Azure Function TimerTrigger
 
-⏲ The `TimerTrigger` fires every 10 minutes for the `build-sentiment-files` function.
+⏲ The `TimerTrigger` fires every 30 minutes for the `build-sentiment-files` function.
 
 ## How It Works
 
@@ -9,7 +9,7 @@ For a `TimerTrigger` to work, you provide a schedule in the form of a
 
 A cron expression is a string with 6 separate expressions which represent
 a given schedule via patterns. The pattern we use to represent every 5
-minutes is `0 */10 * * * *`.
+minutes is `0 */30 * * * *`.
 
 This, in plain text, means:
 
