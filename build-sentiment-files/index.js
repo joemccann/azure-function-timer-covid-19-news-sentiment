@@ -8,7 +8,7 @@ const increment = process.env.INCREMENT
 const jobDataFile = process.env.JOB_DATA_FILENAME
 
 module.exports = async (ctx, myTimer) => {
-  console.log('>>>>> firing.................')
+  console.log('>>> Firing...')
   //
   // Step 1: Fetch the latest jobs data file
   //
